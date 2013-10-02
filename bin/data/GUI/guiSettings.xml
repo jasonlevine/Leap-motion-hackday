@@ -1,0 +1,45 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>BACKGROUND VALUE</Name>
+    <Value>4.194078922</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>FULLSCREEN</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>PROGRAM</Name>
+    <Value>119.642105103</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>XyPad1x</Name>
+    <Value>0.491766244</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>XyPad1y</Name>
+    <Value>0.074879035</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>XyPad2x</Name>
+    <Value>0.865690947</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>XyPad2y</Name>
+    <Value>0.568458498</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>fade amnt</Name>
+    <Value>11.473684311</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>kaleidascope</Name>
+    <Value>0</Value>
+</Widget>
